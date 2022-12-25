@@ -707,3 +707,22 @@ footer .copyright{
         margin-bottom: 2rem;
     }
 }
+@media (max-width:400px){
+
+    header .hero .right h5{
+        font-size: 1.3rem;
+    }
+    header .hero .right h1{
+        font-size: 2rem;
+    }
+    header .hero .right p{
+        font-size: 0.9rem;
+    }
+    section.about .container .left .about-me-img{
+        height: 525px;
+        width: 304px
+    }
+    section.blog .container .card-wrapper{
+        padding: 0 0;
+    }
+}
